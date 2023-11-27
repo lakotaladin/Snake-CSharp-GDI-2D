@@ -34,23 +34,24 @@
             // button1
             // 
             this.button1.FlatAppearance.BorderSize = 2;
+            this.button1.Font = new System.Drawing.Font("nevis", 12F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ActiveCaptionText;
-            this.button1.Location = new System.Drawing.Point(395, 274);
+            this.button1.Location = new System.Drawing.Point(296, 223);
+            this.button1.Margin = new System.Windows.Forms.Padding(2, 2, 2, 2);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(196, 64);
+            this.button1.Size = new System.Drawing.Size(147, 52);
             this.button1.TabIndex = 0;
-            this.button1.Text = "ZAPOCNI IGRU";
+            this.button1.Text = "ZAPOČNI IGRU";
             this.button1.UseVisualStyleBackColor = true;
             this.button1.Click += new System.EventHandler(this.Po);
             // 
             // Pocetna
             // 
-            this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
+            this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.InactiveCaption;
-            this.ClientSize = new System.Drawing.Size(992, 576);
+            this.ClientSize = new System.Drawing.Size(744, 468);
             this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
             this.Name = "Pocetna";
             this.Text = "Pocetna";
             this.Load += new System.EventHandler(this.Pocetna_Load);

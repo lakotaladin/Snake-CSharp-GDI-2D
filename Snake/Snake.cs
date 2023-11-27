@@ -24,14 +24,14 @@ namespace Snake
 
         private readonly Queue<Piece> m_Pieces;
         private readonly Image m_Texture;
-        private readonly Timer m_Timer; // Promenjeno u System.Windows.Forms.Timer
+        private readonly Timer m_Timer; 
         private readonly int m_Speed = 50;
 
         public Snake(Image texture)
         {
             m_Texture = texture;
             m_Pieces = new Queue<Piece>();
-            m_Timer = new Timer(); // Promenjeno u System.Windows.Forms.Timer
+            m_Timer = new Timer(); 
             m_Timer.Interval = m_Speed;
             m_Timer.Tick += Move;
         }

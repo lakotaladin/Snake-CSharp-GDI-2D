@@ -70,3 +70,14 @@ C:\Users\lakot\OneDrive\Desktop\Snake-game-CSharp-master1\Snake-game-CSharp-mast
 C:\Users\lakot\OneDrive\Desktop\Snake-game-CSharp-master1\Snake-game-CSharp-master\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
 C:\Users\lakot\OneDrive\Desktop\Snake-game-CSharp-master1\Snake-game-CSharp-master\Snake\obj\Debug\Snake.exe
 C:\Users\lakot\OneDrive\Desktop\Snake-game-CSharp-master1\Snake-game-CSharp-master\Snake\obj\Debug\Snake.pdb
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\bin\Debug\Snake.exe.config
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\bin\Debug\Snake.exe
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\bin\Debug\Snake.pdb
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.csproj.AssemblyReference.cache
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.Pocetna.resources
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.Properties.Resources.resources
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.Window.resources
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.csproj.GenerateResource.cache
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.csproj.CoreCompileInputs.cache
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.exe
+D:\Laki Podaci\Fakultet\VI semestar 2021 2022\Racunarska grafika\Grafika projekti\Igrica 1 racunarska grafika\Snake-game-CSharp-GDI+-\Snake\obj\Debug\Snake.pdb

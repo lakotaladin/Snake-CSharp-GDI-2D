@@ -9,7 +9,7 @@ namespace Snake
         private const int WIDTH = 30;
         private const int HEIGHT = 30;
         private const string SCORE_STRING = "Skor: {0}";
-        private readonly Color m_BackgroundColor = Color.SandyBrown;
+        private readonly Color m_BackgroundColor = Color.Khaki;
         private readonly Game m_Game;
         private readonly Bitmap m_GameField;
         private readonly Graphics m_GameGraphics;

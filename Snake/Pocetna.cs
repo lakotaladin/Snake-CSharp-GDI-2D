@@ -135,7 +135,17 @@ namespace Snake
 
         private void Pocetna_Click(object sender, EventArgs e)
         {
-
+            // Stilizacija dugmeta koje je pokrenulo događaj
+            Button dugme = sender as Button;
+            if (dugme != null)
+            {
+                dugme.FlatStyle = FlatStyle.Flat;
+                dugme.BackColor = Color.Green; // Postavite zelenu boju pozadine
+                dugme.ForeColor = Color.White; // Postavite belu boju teksta
+                dugme.Font = new Font("Arial", 12, FontStyle.Bold); // Postavite zadebljano belo slovo
+                dugme.FlatAppearance.BorderColor = Color.DarkOliveGreen; // Postavite boju ivice dugmeta
+                dugme.FlatAppearance.BorderSize = 2; // Postavite debljinu ivice dugmeta
+            }
         }
 
         private void Po(object sender, EventArgs e)
@@ -146,7 +156,10 @@ namespace Snake
 
             // Sakriva trenutni prozor
             this.Hide();
+
+           
         }
+
 
 
 
